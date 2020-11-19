@@ -1,0 +1,65 @@
+*{
+	box-sizing: border-box;
+}
+/*----navebar start---*/
+.header{
+	padding: 10px;
+}
+.navbar-items{
+	background: #c1c1c1;
+}
+.Nav-Items{
+	padding: 15px;
+	color: gray;
+	font-size: 20px;
+}
+/*-------navbar end ------*/
+/*----start folder section-----*/
+.more{
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	background: #ffffff;
+}
+.folder{
+	font-size: 40px;
+}
+/*----end folder section-----*/
+.p1{
+	font-size: 15px;
+	color: #606367;
+}
+
+.Files{
+	background: #eeeeee;height: 60px;
+	padding: 10px;
+}
+/*----Thumbanil---*/
+#card{
+	padding: 10px;
+}
+.Text-Box{
+	height: 300px;
+}
+/*-------BoxIcon-------*/
+.icons{
+	background: #479a5f;
+	font-size: 20px;
+	color: #ffffff;
+}
+.icon-size{
+	font-size: 20px;
+}
+.p-text{
+	font-size: 20px;
+	font-weight: bold;
+}
+.midel-Icon{
+	font-size: 60px;
+	color:  #a9a9a9;
+}
+/*-----Table----*/
+table,th,td{
+	font-size: 8px;
+	text-align: center;
+}
+
